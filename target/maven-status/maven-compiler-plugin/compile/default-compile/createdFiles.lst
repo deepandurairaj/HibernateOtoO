@@ -1,0 +1,4 @@
+com\training\main\HibernateOtoOAnnotation_Main.class
+com\training\util\HibernateUtil.class
+com\training\model\Employee.class
+com\training\model\EmployeeDetails.class
